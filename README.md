@@ -59,9 +59,9 @@ UI/UX Requirements:
 
 ```javascript
 const links = [
-    { name: "Servicio 1", url: "[URL_PRIVADA]", desc: "Descripción del servicio." },
-    { name: "Servicio 2", url: "[URL_PRIVADA]", desc: "Acceso a eventos en directo." },
-    { name: "Servicio 3", url: "[URL_PRIVADA]", desc: "Portal de servicios digitales." }
+    { name: "Servicio 1", url: "[URL_PRIVADA]", desc: "Servicio 1." },
+    { name: "Servicio 2", url: "[URL_PRIVADA]", desc: "Servicio 2." },
+    { name: "Servicio 3", url: "[URL_PRIVADA]", desc: "Servicio 3." }
 ];
 
 function renderCards(filter = '') {
