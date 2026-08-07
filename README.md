@@ -126,8 +126,4 @@ El proceso documentado en las fases del README demuestra un flujo de trabajo rea
 
 ---
 
-<p align="center">
-  <sub>Desarrollado por <a href="https://github.com/migueljerico">@migueljerico</a> · 2026</sub>
-</p>
-
 <p align="center">Creado por <a href="https://github.com/migueljerico">@migueljerico</a> y documentado por BazaarLink (DeepSeek V4 Flash (free)) desde la App Asistente de IA · 2026</p>
