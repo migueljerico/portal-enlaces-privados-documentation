@@ -1,7 +1,7 @@
 # Manual Técnico — Portal de Enlaces Privados
 
 **Versión del documento:** 1.0  
-**Fecha:** 2025-04-03  
+**Fecha:** 07/08/2026
 **Repositorio:** [migueljerico/portal-enlaces-privados-documentation](https://github.com/migueljerico/portal-enlaces-privados-documentation)  
 **Aplicación en producción:** [mis-enlaces-privados.lovable.app](https://mis-enlaces-privados.lovable.app)
 
